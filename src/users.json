@@ -1,0 +1,23 @@
+[
+  {
+    "username": "pepe",
+    "name": "Pepe Pérez",
+    "age": 35,
+    "occupation": "Software developer",
+		"avatar": "/assets/avatar-3.svg"
+  },
+  {
+    "username": "paco",
+    "name": "Paco Pérez",
+    "age": 34,
+    "occupation": "Junior software developer",
+		"avatar": "/assets/avatar-1.svg"
+  },
+  {
+    "username": "pipo",
+    "name": "Pipo Pérez",
+    "age": 33,
+    "occupation": "Student",
+		"avatar": "/assets/avatar-2.svg"
+  }
+]
